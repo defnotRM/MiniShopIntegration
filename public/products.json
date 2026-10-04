@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Pro 15",
+    "name": "Laptop",
+    "price": 12900,
+    "category": "Computer",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&auto=format&fit=crop&q=60",
+    "icon": "laptop",
+    "description": "High performance laptop with high resolution screen and long battery life.",
+    "rating": {
+      "rate": 4.5,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Wireless Headphones",
+    "name": "Headphones",
+    "price": 1290,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60",
+    "icon": "headphones",
+    "description": "Noise cancelling over-ear wireless headphones with deep bass.",
+    "rating": {
+      "rate": 4.3,
+      "count": 85
+    }
+  },
+  {
+    "id": 3,
+    "title": "Urban Travel Backpack",
+    "name": "Backpack",
+    "price": 890,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&auto=format&fit=crop&q=60",
+    "icon": "backpack",
+    "description": "Durable water-resistant backpack suitable for daily commute and travel.",
+    "rating": {
+      "rate": 4.7,
+      "count": 210
+    }
+  },
+  {
+    "id": 4,
+    "title": "Smart Watch OLED",
+    "name": "Smart Watch",
+    "price": 2990,
+    "category": "Gadget",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60",
+    "icon": "smartwatch",
+    "description": "Fitness tracking smartwatch with heart rate monitor and AMOLED display.",
+    "rating": {
+      "rate": 4.4,
+      "count": 95
+    }
+  },
+  {
+    "id": 5,
+    "title": "Mechanical Gaming Keyboard",
+    "name": "Gaming Keyboard",
+    "price": 2490,
+    "category": "Computer",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&auto=format&fit=crop&q=60",
+    "icon": "keyboard",
+    "description": "RGB mechanical keyboard with tactile blue switches.",
+    "rating": {
+      "rate": 4.6,
+      "count": 140
+    }
+  },
+  {
+    "id": 6,
+    "title": "Bluetooth Portable Speaker",
+    "name": "Bluetooth Speaker",
+    "price": 1590,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&auto=format&fit=crop&q=60",
+    "icon": "speaker",
+    "description": "Compact waterproof bluetooth speaker with 12-hour playtime.",
+    "rating": {
+      "rate": 4.2,
+      "count": 78
+    }
+  },
+  {
+    "id": 7,
+    "title": "Classic Denim Jacket",
+    "name": "Denim Jacket",
+    "price": 1890,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=500&auto=format&fit=crop&q=60",
+    "icon": "jacket",
+    "description": "Vintage wash classic denim jacket made with 100% premium cotton.",
+    "rating": {
+      "rate": 4.5,
+      "count": 64
+    }
+  },
+  {
+    "id": 8,
+    "title": "Wireless Fast Charger Pad",
+    "name": "Wireless Charger",
+    "price": 690,
+    "category": "Gadget",
+    "image": "https://images.unsplash.com/photo-1622445262464-84b1456045b6?w=500&auto=format&fit=crop&q=60",
+    "icon": "charger",
+    "description": "Qi-certified 15W fast wireless charging pad for iOS and Android.",
+    "rating": {
+      "rate": 4.1,
+      "count": 112
+    }
+  }
+]
